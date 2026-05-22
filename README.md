@@ -15,7 +15,7 @@ There is no reason *MissionForce: CyberStorm* should remain without a community 
 
 # Publications
 ## InterAction Magazine
-*InterAction* was a dedicated promotional magazine published by Sierra On-Line starting in June 1991.
+*InterAction* was a dedicated promotional magazine published by Sierra On-Line starting in June 1991. Archival pages were sourced from [Retromags](https://www.retromags.com/files/category/206-interaction/).
 
 ### [Issue 27 (Summer 1996)](./publications/InterAction%20Issue%2027%20(Summer%201996).pdf)
 - Pages 28–31 showcase the game using prerelease assets.
