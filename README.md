@@ -14,6 +14,28 @@ There is no reason *MissionForce: CyberStorm* should remain without a community 
 
 
 # Publications
+## [Quick Reference](./publications/Quick-Reference.pdf)
+The game came with a quick reference guide which seemingly contains unique information, such as keyboard hotkeys.
+
+It also informs the player of the maximum commander rank achievable within a star system. Not knowing this can cause players to grind unnecessarily. The guide also includes a cost-to-performance comparison chart for purchasable derms. While this information exists in-game, it is only shown one item at a time, making The game came with a quick reference guide which seemingly contains unique information, such as keyboard hotkeys.
+
+It also informs the player of the maximum commander rank achievable within a star system. Not knowing this can cause players to grind unnecessarily. The guide also includes a cost-to-performance comparison chart for purchasable derms. While this information exists in-game, it is only shown one item at a time, making direct comparison difficult.
+
+A major highlight is the keyboard hotkeys. The game can become grind-heavy, so these shortcuts are an important quality-of-life tool:
+
+- Crouch/Stand: `K`  
+- Move shields forward: `-`  
+- Inject derm with Jackup: `[`  
+- Show/Hide terrain: `0` & `9`  
+- Next/Previous HERC: `<` & `>`  
+- End turn: `Ctrl + E`
+
+Staying on the Fire Control Panel as much as possible significantly speeds up overall gameplay.
+
+However, gameplay patterns show that players often neglect the Crouch and Jackup mechanics, as they are usually not worth the time investment in most situations. This leads to them being forgotten in moments where they are most needed.
+
+My typical workflow is to spam `-[>` at the start of each battle, then ending each turn with `K>` & `Ctrl + E`.
+
 ## InterAction Magazine
 *InterAction* was a dedicated promotional magazine published by Sierra On-Line starting in June 1991. Archival pages were sourced from [Retromags](https://www.retromags.com/files/category/206-interaction/).
 
