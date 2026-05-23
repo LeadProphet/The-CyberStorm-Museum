@@ -50,7 +50,7 @@ My typical workflow is to spam `-[>` at the start of each battle, then ending ea
 - Pages 96–97 promote multiplayer features, the [www.sierra.com/cyberstorm](https://web.archive.org/web/19970214174036/http://www1.sierra.com/games/cyberstorm/index.html) website, and the message board.
 - References daily tournaments with approximately 200 participants in the Red Max's 1996 *Storm Watch Challenge*. While not hosted directly by Sierra, the company provided prizes and official rules.
 - The utility *Madaxe's HercView* is endorsed and made available for download.
-- A bundle containing 96 HERC save files (provided by Dynamix QA technician Matthew) was also distributed.
+- A bundle containing 96 HERC save file was also distributed.
 - Cheat codes were published through the [goodies webpage](https://web.archive.org/web/19970214174036/http://www1.sierra.com/games/cyberstorm/index.html), which appears to have been the primary source for updates, with indications that new codes may have been added monthly.
 
 ### [Issue 30 (Spring 1997)](./publications/InterAction%20Issue%2030%20(Spring%201997).pdf)
@@ -74,3 +74,8 @@ James Parker “Madaxe” created a utility called HercView that enabled players
 The version provided requires [installation](./tools/HercView/Installer.zip), while a [portable](./tools/HercView/Portable.zip) edition has been created for preservation purposes.
 
 The Herc Base Alpha website documents the `.hrc` [file specification](https://web.archive.org/web/19991007062427/http://www.uncg.edu/%7Ejsrobard/CS_Hacking.htm#edit_cbs), making it straightforward to develop a modern implementation.
+
+## HERCs R Us
+Sierra produced a collection of [89 custom .hrc](./tools/89_Hercs.zip) files as a special release for Christmas 1996. Issue 29 of InterAction states that the files were created by Dynamix QA technician Matthew Vincent.
+
+Without additional tools, `.hrc` files are difficult to effectively use or evaluate in single-player. If a player's technology level exceeds the HERC design, the imported HERC becomes underpowered. Conversely, if the `.hrc` file requires a higher tech level than the player has achieved, the HERC cannot be imported at all.
