@@ -66,3 +66,11 @@ The installation guide is nearly useless and represents the absolute bare minimu
 Given the complexity of the game’s mechanics, the absence of a proper physical manual was a disappointment frequently voiced by players. It is difficult to imagine that many users did not mistake the installation guide for the nonexistent game manual itself. The 1.2 patch notes even acknowledge complaints regarding the lack of a printed manual.
 
 The situation was likely made worse by how comically thin the installation guide appeared. Although it does reference the in-game/on-disk manual, the mention is extremely easy to miss. It also briefly hints that some sounds were sourced from the "Sound Ideas® sound effects library."
+
+# Tools
+## Madaxe's HercView 1.1
+James Parker “Madaxe” created a utility called HercView that enabled players to view and print `.hrc` files outside of CyberStorm ([example](./tools/HercView/Example.pdf)). The tool received direct support from Sierra On-Line, being hosted on Sierra’s “Extra Goodies” page and later referenced in InterAction Issue #29.
+
+The version provided requires [installation](./tools/HercView/Installer.zip), while a [portable](./tools/HercView/Portable.zip) edition has been created for preservation purposes.
+
+The Herc Base Alpha website documents the `.hrc` [file specification](https://web.archive.org/web/19991007062427/http://www.uncg.edu/%7Ejsrobard/CS_Hacking.htm#edit_cbs), making it straightforward to develop a modern implementation.
