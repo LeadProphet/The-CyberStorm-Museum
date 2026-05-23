@@ -12,9 +12,8 @@ Other classic communities have already demonstrated what is possible when passio
 
 There is no reason *MissionForce: CyberStorm* should remain without a community presence. The foundation still exists — the game is obtainable, functional, and mechanically unique even by modern standards. What is missing is a centralized effort to preserve knowledge, document its systems, archive its history, and make entry into the game approachable for new players.
 
-
 # Publications
-## [Quick Reference Card](./publications/Quick Reference Card.pdf)
+## [Quick Reference Card](./publications/Quick%20Reference%20Card.pdf)
 The game came with a quick reference Card which seemingly contains unique information, such as keyboard hotkeys.
 
 It also informs the player of the maximum commander rank achievable within a star system. Not knowing this can cause players to grind unnecessarily (Missing Promotion Points). The card also includes a cost-to-performance comparison chart for purchasable derms (Missing learn rates). While this information exists in-game, it is only shown one item at a time, making direct comparison difficult.
