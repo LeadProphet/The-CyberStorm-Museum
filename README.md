@@ -72,7 +72,7 @@ Given the complexity of the game’s mechanics, the absence of a proper physical
 
 The situation was likely made worse by how comically thin the installation guide appeared. Although it does reference the in-game/on-disk manual, the mention is extremely easy to miss. It also briefly hints that some sounds were sourced from the "Sound Ideas® sound effects library."
 
-# Tools
+# Downloads
 ## Madaxe's HercView 1.1
 James Parker “Madaxe” created a utility called HercView that enabled players to view and print `.hrc` files outside of CyberStorm ([example](./downloads/HercView/Example.pdf)). The tool received direct support from Sierra On-Line, being hosted on Sierra’s “Extra Goodies” page and later referenced in InterAction Issue #29.
 
@@ -84,3 +84,8 @@ The Herc Base Alpha website documents the `.hrc` [file specification](https://we
 Sierra produced a collection of [89 custom .hrc](./downloads/89_Hercs.zip) files as a special release for Christmas 1996. Issue 29 of InterAction states that the files were created by Dynamix QA technician Matthew Vincent.
 
 Without additional tools, `.hrc` files are difficult to effectively use or evaluate in single-player. If a player's technology level exceeds the HERC design, the imported HERC becomes underpowered. Conversely, if the `.hrc` file requires a higher tech level than the player has achieved, the HERC cannot be imported at all.
+
+## [v1.1 Patch](./downloads/v1.1%20Patch.zip)
+Patch v1.1 was a major overhaul for the game, introducing Hotseat multiplayer and Play-by-Email multiplayer support. It also rebalanced gameplay, particularly around the first Elite mission, added additional cheats and openly documented them within the game files, and introduced the Opportunity Fire mechanic, allowing both players and AI units to take reactive “overwatch” shots.
+
+With the sheer number of improvements and gameplay refinements, v1.1 stands as the quintessential way to experience the game. No other updates or patches were officaly released by Sierra / Dynamix.
