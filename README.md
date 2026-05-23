@@ -13,6 +13,11 @@ Other classic communities have already demonstrated what is possible when passio
 There is no reason *MissionForce: CyberStorm* should remain without a community presence. The foundation still exists — the game is obtainable, functional, and mechanically unique even by modern standards. What is missing is a centralized effort to preserve knowledge, document its systems, archive its history, and make entry into the game approachable for new players.
 
 # Publications
+## [Prima Strategy Guide](./publications/Prima%20Strategy%20Guide.pdf)
+John Sauer wrote an official strategy guide for MissionForce: CyberStorm under the Prima Publishing label. Produced with direct support from Dynamix, the guide provides extensive gameplay information, mechanics explanations, and strategic insight that were largely absent from the retail release.
+
+Given the depth and importance of its content, the guide arguably should have served as the in-box manual for players.
+
 ## [Quick Reference Card](./publications/Quick%20Reference%20Card.pdf)
 The game came with a quick reference Card which seemingly contains unique information, such as keyboard hotkeys.
 
