@@ -14,10 +14,10 @@ There is no reason *MissionForce: CyberStorm* should remain without a community 
 
 
 # Publications
-## [Quick Reference Card](./publications/Quick-Reference-Card.pdf)
+## [Quick Reference Card](./publications/Quick Reference Card.pdf)
 The game came with a quick reference Card which seemingly contains unique information, such as keyboard hotkeys.
 
-It also informs the player of the maximum commander rank achievable within a star system. Not knowing this can cause players to grind unnecessarily. The card also includes a cost-to-performance comparison chart for purchasable derms. While this information exists in-game, it is only shown one item at a time, making direct comparison difficult.
+It also informs the player of the maximum commander rank achievable within a star system. Not knowing this can cause players to grind unnecessarily (Missing Promotion Points). The card also includes a cost-to-performance comparison chart for purchasable derms (Missing learn rates). While this information exists in-game, it is only shown one item at a time, making direct comparison difficult.
 
 A major highlight is the keyboard hotkeys. The game can become grind-heavy, so these shortcuts are an important quality-of-life tool:
 
@@ -60,3 +60,10 @@ My typical workflow is to spam `-[>` at the start of each battle, then ending ea
 > "If you are one of the zillion people who demanded more of MissionForce: CyberStorm, then the creative team of designers at Dynamix is putting together a game you're gonna love."
 
 - *CyberStorm* was absent from the Top 20 section on page 96.
+
+## [Installation Guide](./publications/Installation%20Guide.pdf)
+The installation guide is nearly useless and represents the absolute bare minimum of acceptable documentation.
+
+Given the complexity of the game’s mechanics, the absence of a proper physical manual was a disappointment frequently voiced by players. It is difficult to imagine that many users did not mistake the installation guide for the nonexistent game manual itself. The 1.2 patch notes even acknowledge complaints regarding the lack of a printed manual.
+
+The situation was likely made worse by how comically thin the installation guide appeared. Although it does reference the in-game/on-disk manual, the mention is extremely easy to miss. It also briefly hints that some sounds were sourced from the "Sound Ideas® sound effects library."
