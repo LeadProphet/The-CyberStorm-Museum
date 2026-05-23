@@ -14,10 +14,10 @@ There is no reason *MissionForce: CyberStorm* should remain without a community 
 
 
 # Publications
-## [Quick Reference](./publications/Quick-Reference.pdf)
-The game came with a quick reference guide which seemingly contains unique information, such as keyboard hotkeys.
+## [Quick Reference Card](./publications/Quick-Reference-Card.pdf)
+The game came with a quick reference Card which seemingly contains unique information, such as keyboard hotkeys.
 
-It also informs the player of the maximum commander rank achievable within a star system. Not knowing this can cause players to grind unnecessarily. The guide also includes a cost-to-performance comparison chart for purchasable derms. While this information exists in-game, it is only shown one item at a time, making direct comparison difficult.
+It also informs the player of the maximum commander rank achievable within a star system. Not knowing this can cause players to grind unnecessarily. The card also includes a cost-to-performance comparison chart for purchasable derms. While this information exists in-game, it is only shown one item at a time, making direct comparison difficult.
 
 A major highlight is the keyboard hotkeys. The game can become grind-heavy, so these shortcuts are an important quality-of-life tool:
 
