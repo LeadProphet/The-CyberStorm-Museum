@@ -74,13 +74,13 @@ The situation was likely made worse by how comically thin the installation guide
 
 # Tools
 ## Madaxe's HercView 1.1
-James Parker “Madaxe” created a utility called HercView that enabled players to view and print `.hrc` files outside of CyberStorm ([example](./tools/HercView/Example.pdf)). The tool received direct support from Sierra On-Line, being hosted on Sierra’s “Extra Goodies” page and later referenced in InterAction Issue #29.
+James Parker “Madaxe” created a utility called HercView that enabled players to view and print `.hrc` files outside of CyberStorm ([example](./downloads/HercView/Example.pdf)). The tool received direct support from Sierra On-Line, being hosted on Sierra’s “Extra Goodies” page and later referenced in InterAction Issue #29.
 
-The version provided requires [installation](./tools/HercView/Installer.zip), while a [portable](./tools/HercView/Portable.zip) edition has been created for preservation purposes.
+The version provided requires [installation](./downloads/HercView/Installer.zip), while a [portable](./downloads/HercView/Portable.zip) edition has been created for preservation purposes.
 
 The Herc Base Alpha website documents the `.hrc` [file specification](https://web.archive.org/web/19991007062427/http://www.uncg.edu/%7Ejsrobard/CS_Hacking.htm#edit_cbs), making it straightforward to develop a modern implementation.
 
 ## HERCs R Us
-Sierra produced a collection of [89 custom .hrc](./tools/89_Hercs.zip) files as a special release for Christmas 1996. Issue 29 of InterAction states that the files were created by Dynamix QA technician Matthew Vincent.
+Sierra produced a collection of [89 custom .hrc](./downloads/89_Hercs.zip) files as a special release for Christmas 1996. Issue 29 of InterAction states that the files were created by Dynamix QA technician Matthew Vincent.
 
 Without additional tools, `.hrc` files are difficult to effectively use or evaluate in single-player. If a player's technology level exceeds the HERC design, the imported HERC becomes underpowered. Conversely, if the `.hrc` file requires a higher tech level than the player has achieved, the HERC cannot be imported at all.
