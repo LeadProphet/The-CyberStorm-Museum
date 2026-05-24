@@ -98,6 +98,11 @@ The fans `Crow!`, `Seraphim`, `borg_down`, `siopaomanX` on [The Junkyard forums]
 
 Special thanks for the dedication and expertise required to create such a patch. Rebalancing a complex strategy game at this level demands a deep understanding of its mechanics, enemy scaling, and overall campaign flow (Dynamix has 14 Quality Assurance Analysts listed in the credits). Truly a legend!
 
+## Windows Theme (Fan made)
+Hosted on the [Official CyberStorm Site](https://web.archive.org/web/19970321071832/http://www.techline.com/~outlaw/guns/cs/) created by `RAtt` and `Lemming` is a downloadable [MSPlus Windows theme](./downloads/windows%20theme.zip).
+
+No credits are attributed, however the theme appears to be reasonably well developed, featuring images, cursors, and sound effects taken directly from the game. For 1996, it is quaint and genuinely charming to see a fan-made Windows theme produced for the game, reflecting the era when desktop customization packs were a popular part of PC gaming culture. Sadly, there is no surviving context explaining how the assets were extracted or who specifically authored the theme. However, the startup screen links directly to the official CyberStorm fan site, making `RAtt` or `Lemming` the most likely creators.
+
 # Lost Media
 - `Crow!`'s documentation, `Cybrid Herc Design Listings.zip` and `Documentation.zip`, from [The Junkyard archive thread](https://web.archive.org/web/20150913221046/http://forums.the-junkyard.net/showthread.php/9780-Cyberstorm-Hexing-info). The documents reportedly contained instructions for modifying the game using a hex editor. ~2007  
 - `dudejo` created a modified `.exe` featuring altered player weapon statistics. It was [published on The Junkyard](https://web.archive.org/web/20150127185830/http://forums.the-junkyard.net/showthread.php/9930-in-case-we-ever-find-how-to-change-weapon-stats), but the file itself was hosted on RapidShare. Recovery may prove difficult, as there is little identifiable branding or naming information to trace the upload. ~2010  
