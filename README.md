@@ -85,6 +85,9 @@ Sierra produced a collection of [89 custom .hrc](./downloads/89_Hercs.zip) files
 
 Without additional tools, `.hrc` files are difficult to effectively use or evaluate in single-player. If a player's technology level exceeds the HERC design, the imported HERC becomes underpowered. Conversely, if the `.hrc` file requires a higher tech level than the player has achieved, the HERC cannot be imported at all.
 
+## [Cyberstorm Demo](./downloads/CyberStorm%20Demo.zip)
+Sierra provided a free promotional demo of MissionForce: CyberStorm, available both as a downloadable release from the [Sierra website](https://web.archive.org/web/19970113114416/http://www1.sierra.com/games/cyberstorm/demo/readme.html) and on CD-ROM. The demo allowed players to experience three pre-made sample missions, though multiplayer functionality was not included.
+
 ## [v1.1 Patch](./downloads/v1.1%20Patch.zip)
 Patch v1.1 was a major overhaul for the game, introducing Hotseat multiplayer and Play-by-Email multiplayer support. It also rebalanced gameplay, particularly around the first Elite mission, added additional cheats and openly documented them within the game files, and introduced the Opportunity Fire mechanic, allowing both players and AI units to take reactive “overwatch” shots.
 
