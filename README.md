@@ -13,13 +13,13 @@ Other classic communities have already demonstrated what is possible when passio
 There is no reason *MissionForce: CyberStorm* should remain without a community presence. The foundation still exists — the game is obtainable, functional, and mechanically unique even by modern standards. What is missing is a centralized effort to preserve knowledge, document its systems, archive its history, and make entry into the game approachable for new players.
 
 # Publications
-## [Prima Strategy Guide](./publications/Prima%20Strategy%20Guide.pdf)
-John Sauer wrote an official strategy guide for MissionForce: CyberStorm under the Prima Publishing label. Produced with direct support from Dynamix, the guide provides extensive gameplay information, mechanics explanations, and strategic insight that were largely absent from the retail release.
+## Prima Strategy Guide
+John Sauer wrote an [official strategy guide](./publications/Prima%20Strategy%20Guide.pdf) for MissionForce: CyberStorm under the Prima Publishing label. Produced with direct support from Dynamix, the guide provides extensive gameplay information, mechanics explanations, and strategic insight that were largely absent from the retail release.
 
 Given the depth and importance of its content, the guide arguably should have served as the in-box manual for players.
 
-## [Quick Reference Card](./publications/Quick%20Reference%20Card.pdf)
-The game came with a quick reference Card which seemingly contains unique information, such as keyboard hotkeys.
+## Quick Reference Card
+The game came with a [quick reference Card](./publications/Quick%20Reference%20Card.pdf) which seemingly contains unique information, such as keyboard hotkeys.
 
 It also informs the player of the maximum commander rank achievable within a star system. Not knowing this can cause players to grind unnecessarily (Missing Promotion Points). The card also includes a cost-to-performance comparison chart for purchasable derms (Missing learn rates). While this information exists in-game, it is only shown one item at a time, making direct comparison difficult.
 
@@ -41,16 +41,16 @@ My typical workflow is to spam `-[>` at the start of each battle, then ending ea
 ## InterAction Magazine
 *InterAction* was a dedicated promotional magazine published by Sierra On-Line starting in June 1991. Archival pages were sourced from [Retromags](https://www.retromags.com/files/category/206-interaction/).
 
-### [Issue 27 (Summer 1996)](./publications/InterAction%20Issue%2027%20(Summer%201996).pdf)
+### Issue 27 (Summer 1996) [PDF](./publications/InterAction%20Issue%2027%20(Summer%201996).pdf)
 - Pages 28–31 showcase the game using prerelease assets.
 - Advertises the inclusion of two copies in each box to encourage online play.
 
-### [Issue 28 (Fall 1996)](./publications/InterAction%20Issue%2028%20(Fall%201996).pdf)
+### Issue 28 (Fall 1996) [PDF](./publications/InterAction%20Issue%2028%20(Fall%201996).pdf)
 - Page 7 sells a swag T-shirt featuring *MissionForce: CyberStorm* branding.
 - Page 13 lists *CyberStorm* as #4 in the Top 10 Entertainment rankings.
 - Pages 68–71 contain a multi-page article praising the multiplayer experience, although gameplay imagery is sparse.
 
-### [Issue 29 (Holiday 1996)](./publications/InterAction%20Issue%2029%20(Holiday%201996).pdf)
+### Issue 29 (Holiday 1996) [PDF](./publications/InterAction%20Issue%2029%20(Holiday%201996).pdf)
 - Page 10 lists *CyberStorm* as #7 in the Top 10 Entertainment rankings.
 - Pages 96–97 promote multiplayer features, the [www.sierra.com/cyberstorm](https://web.archive.org/web/19970214174036/http://www1.sierra.com/games/cyberstorm/index.html) website, and the message board.
 - References daily tournaments with approximately 200 participants in the Red Max's 1996 *Storm Watch Challenge*. While not hosted directly by Sierra, the company provided prizes and official rules.
@@ -58,17 +58,21 @@ My typical workflow is to spam `-[>` at the start of each battle, then ending ea
 - A bundle containing 96 HERC save file was also distributed.
 - Cheat codes were published through the [goodies webpage](https://web.archive.org/web/19970214174036/http://www1.sierra.com/games/cyberstorm/index.html), which appears to have been the primary source for updates, with indications that new codes may have been added monthly.
 
-### [Issue 30 (Spring 1997)](./publications/InterAction%20Issue%2030%20(Spring%201997).pdf)
+### Issue 30 (Spring 1997) [PDF](./publications/InterAction%20Issue%2030%20(Spring%201997).pdf)
 - Page 87 announces *CyberStorm 2* with the casual mention:
 
 > "If you are one of the zillion people who demanded more of MissionForce: CyberStorm, then the creative team of designers at Dynamix is putting together a game you're gonna love."
 
 - *CyberStorm* was absent from the Top 20 section on page 96.
 
-## [Installation Guide](./publications/Installation%20Guide.pdf)
-The installation guide is nearly useless and represents the absolute bare minimum of acceptable documentation.
+## Installation Guide
+The [installation guide](./publications/Installation%20Guide.pdf) is nearly useless and represents the absolute bare minimum of acceptable documentation on how to install and troubleshoot. 
 
-Given the complexity of the game’s mechanics, the absence of a proper physical manual was a disappointment frequently voiced by players. It is difficult to imagine that many users did not mistake the installation guide for the nonexistent game manual itself. The 1.2 patch notes even acknowledge complaints regarding the lack of a printed manual.
+Given the complexity of the game’s mechanics, the absence of a proper physical manual was a disappointment frequently voiced by players. It is difficult to imagine that many users did not mistake the installation guide for the nonexistent game manual itself. The v1.1 patch notes even acknowledge complaints regarding the lack of a printed manual.
+
+> "However, the choice to not have a paper  manual was not one that many were, shall we say, fond of." In addition to the lack of heft in the box, many missed explicitly detailed statistics for the weapons. Some wanted more things to be able to read off-line. Others had trouble printing sections of the manual on their printer."
+>
+> — PATCH.TXT document (post install from v1.1)
 
 The situation was likely made worse by how comically thin the installation guide appeared. Although it does reference the in-game/on-disk manual, the mention is extremely easy to miss. It also briefly hints that some sounds were sourced from the "Sound Ideas® sound effects library."
 
@@ -85,16 +89,16 @@ Sierra produced a collection of [89 custom .hrc](./downloads/89_Hercs.zip) files
 
 Without additional tools, `.hrc` files are difficult to effectively use or evaluate in single-player. If a player's technology level exceeds the HERC design, the imported HERC becomes underpowered. Conversely, if the `.hrc` file requires a higher tech level than the player has achieved, the HERC cannot be imported at all.
 
-## [Cyberstorm Demo](./downloads/CyberStorm%20Demo.zip)
-Sierra provided a free promotional demo of MissionForce: CyberStorm, available both as a downloadable release from the [Sierra website](https://web.archive.org/web/19970113114416/http://www1.sierra.com/games/cyberstorm/demo/readme.html) and on CD-ROM. The demo allowed players to experience three pre-made sample missions, though multiplayer functionality was not included.
+## Cyberstorm Demo
+Sierra provided a free [promotional demo](./downloads/CyberStorm%20Demo.zip) of MissionForce: CyberStorm, available both as a downloadable release from the [Sierra website](https://web.archive.org/web/19970113114416/http://www1.sierra.com/games/cyberstorm/demo/readme.html) and on CD-ROM. The demo allowed players to experience three pre-made sample missions, though multiplayer functionality was not included.
 
-## [v1.1 Patch](./downloads/v1.1%20Patch.zip)
-Patch v1.1 was a major overhaul for the game, introducing Hotseat multiplayer and Play-by-Email multiplayer support. It also rebalanced gameplay, particularly around the first Elite mission, added additional cheats and openly documented them within the game files, and introduced the Opportunity Fire mechanic, allowing both players and AI units to take reactive “overwatch” shots.
+## v1.1 Patch
+[Patch v1.1](./downloads/v1.1%20Patch.zip) was a major overhaul for the game, introducing Hotseat multiplayer and Play-by-Email multiplayer support. It also rebalanced gameplay, particularly around the first Elite mission, added additional cheats and openly documented them within the game files, and introduced the Opportunity Fire mechanic, allowing both players and AI units to take reactive “overwatch” shots. Technically the update is named v1.10a; however, the community commonly refers to it as v1.1.
 
 With the sheer number of improvements and gameplay refinements, v1.1 stands as the quintessential way to experience the game. No other updates or patches were officaly released by Sierra / Dynamix.
 
-## [v1.2 Homebrew Patch](./downloads/v1.2%20Homebrew%20Patch.zip)
-The fans `Crow!`, `Seraphim`, `borg_down`, `siopaomanX` on [The Junkyard forums](https://web.archive.org/web/20121128141129/http://forums.the-junkyard.net/showthread.php/8480-Cyberstorm-Single-Player-V1.2-(Now-it-actually-works!)) created a homebrew patch for the single-player campaign in 2007. The patch primarily focuses on increasing the game’s difficulty by modifying the equipment loadouts used by Cybrid enemies.
+## v1.2 Homebrew Patch
+The fans `Crow!`, `Seraphim`, `borg_down`, `siopaomanX` on [The Junkyard forums](https://web.archive.org/web/20121128141129/http://forums.the-junkyard.net/showthread.php/8480-Cyberstorm-Single-Player-V1.2-(Now-it-actually-works!)) created a ["v1.2" homebrew patch](./downloads/v1.2%20Homebrew%20Patch.zip) for the single-player campaign in 2007. The patch primarily focuses on increasing the game’s difficulty by modifying the equipment loadouts used by Cybrid enemies.
 
 Special thanks for the dedication and expertise required to create such a patch. Rebalancing a complex strategy game at this level demands a deep understanding of its mechanics, enemy scaling, and overall campaign flow (Dynamix has 14 Quality Assurance Analysts listed in the credits). Truly a legend!
 
@@ -107,3 +111,47 @@ No credits are attributed, however the theme appears to be reasonably well devel
 - `Crow!`'s documentation, `Cybrid Herc Design Listings.zip` and `Documentation.zip`, from [The Junkyard archive thread](https://web.archive.org/web/20150913221046/http://forums.the-junkyard.net/showthread.php/9780-Cyberstorm-Hexing-info). The documents reportedly contained instructions for modifying the game using a hex editor. ~2007  
 - `dudejo` created a modified `.exe` featuring altered player weapon statistics. It was [published on The Junkyard](https://web.archive.org/web/20150127185830/http://forums.the-junkyard.net/showthread.php/9930-in-case-we-ever-find-how-to-change-weapon-stats), but the file itself was hosted on RapidShare. Recovery may prove difficult, as there is little identifiable branding or naming information to trace the upload. ~2010  
 - [StormWatch Challenge details](https://web.archive.org/web/19970214174036/http://www1.sierra.com/games/cyberstorm/index.html). These were multiplayer tournaments with prizes supplied by Sierra. StormWatch Challenge #1 appears to have been canceled due to technical difficulties. StormWatch Challenge #2 appears to have been completed, though details such as the winners remain unkown. StormWatch Challenge #3 was [announced as “coming soon”](https://web.archive.org/web/19970615081413/http://www.techline.com/~outlaw/guns/cs/), but no further information has surfaced. ~1996
+
+
+# Game Credits
+**Executive Producer:** Jay Balakrishnan  
+**Producer:** Graeme Bayless  
+**Associate Producer:** Don McClure  
+
+**Creative Director:** John Garvin  
+
+**Lead Software Engineer:** Stephen Cordon  
+**Software Engineers:** David McClurg, Miles Smith, Jimmy Campbell  
+**Multiplayer Engineer:** Langdon Beeck  
+**Additional Programming:** Christopher K. Singleton, Brian Danielson, Phil Taylor, Rhett Anderson, Dynamix "Darkstar" Engineering Group  
+
+**Art Directors:** John Garvin, Mike Jahnke, Shawn Sharp  
+**Art Resource Coordination:** Jay Dee Alley  
+**Herc Designs:** Shawn Sharp  
+**Production Artists:** Douglas Brashear, Barry Drew, Mary Ann Fernandes, Ron Clayborn, Point Asia  
+**Additional Art:** Vance Naegle, Dan Buendia  
+
+**Game Design:** John Garvin, Graeme Bayless, Don McClure, Robert Kraft, Stephen Cordon  
+**Storyline:** Robert Kraft  
+**Additional Writing:** J. Steven York  
+**Assistant Director:** Robert Kraft  
+**Scriptors:** Don McClure, Gerald Azenaro  
+
+**Quality Assurance Manager:** David Steele  
+**Quality Engineer:** Scott Gilbert  
+**Quality Assurance Technician:** John Wolf  
+**Quality Assurance Analysts:** Andrew Binder, Chris Stafford, Trish Bayless, Erinn C. Hamilton, Ben Nahorney, Alan Roberts, Aaron Anderson, Garrett Turner, Ken Eaton, Kenny Smith, Christa Wendland, Daniel Hinds, Gary Stevens, Matthew Vincent  
+
+**Brand Manager:** Barbara Schwabe  
+**Marketing:** Jaymi Bauer  
+**Public Relations:** Barbara Dawson  
+**Creative Services:** Heather Lavin  
+**Packaging Art Direction:** Maria Mason  
+
+**On-line Manual Writing:** Kevin Lamb  
+**On-line Manual Graphic Design:** Egil G. Gløersen  
+
+**Sound Engineer:** Ken Rogers  
+**Music:** Loudmouth  
+
+**Video Production:** James Carey, David Aughenbaugh
