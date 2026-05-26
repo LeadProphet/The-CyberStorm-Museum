@@ -68,7 +68,7 @@ My typical workflow is to spam `-[>` at the start of each battle, then ending ea
 ## Installation Guide
 The [installation guide](./publications/Installation%20Guide.pdf) is nearly useless and represents the absolute bare minimum of acceptable documentation on how to install and troubleshoot. 
 
-Given the complexity of the game’s mechanics, the absence of a proper physical manual was a disappointment frequently voiced by players. It is difficult to imagine that many users did not mistake the installation guide for the nonexistent game manual itself. The v1.1 patch notes even acknowledge complaints regarding the lack of a printed manual.
+Given the complexity of the game’s mechanics, the absence of a proper physical manual was a disappointment [voiced by players](https://groups.google.com/g/comp.sys.ibm.pc.games.strategic/c/KwuVW36djSw/m/vDhxq69hIDsJ). It is difficult to imagine that many users did not mistake the installation guide for the nonexistent game manual itself. 
 
 > "However, the choice to not have a paper  manual was not one that many were, shall we say, fond of." In addition to the lack of heft in the box, many missed explicitly detailed statistics for the weapons. Some wanted more things to be able to read off-line. Others had trouble printing sections of the manual on their printer."
 >
