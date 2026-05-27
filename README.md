@@ -12,6 +12,19 @@ Other classic communities have already demonstrated what is possible when passio
 
 There is no reason *MissionForce: CyberStorm* should remain without a community presence. The foundation still exists — the game is obtainable, functional, and mechanically unique even by modern standards. What is missing is a centralized effort to preserve knowledge, document its systems, archive its history, and make entry into the game approachable for new players.
 
+# Ways to play
+1. **Digital Release**  
+   [GOG.com](https://www.gog.com/en/game/missionforce_cyberstorm) sells the game for approximately **$5.99 USD**.  
+   This release includes the **v1.1 patch** and runs out of the box on modern systems, aside from missing links to the external Windows help and manual files.
+
+2. **Original CD Release**  
+   [eBay](https://www.ebay.com) frequently has loose CD copies available for around **$10.00 USD**, while complete boxed copies typically sell for around **$60.00 USD**.  
+   Physical releases usually require manual intervention to install updates and run properly on modern operating systems.
+
+3. **Preservation Copy**  
+   [Archive.org](https://archive.org/details/missionforce-cyberstorm) hosts preserved `.iso` image of the game.  
+   This versions also require manual intervention to install patches and configure compatibility on modern systems.
+
 # Publications
 ## Prima Strategy Guide
 John Sauer wrote an [official strategy guide](./publications/Prima%20Strategy%20Guide.pdf) for MissionForce: CyberStorm under the Prima Publishing label. Produced with direct support from Dynamix, the guide provides extensive gameplay information, mechanics explanations, and strategic insight that were largely absent from the retail release.
