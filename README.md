@@ -25,6 +25,62 @@ There is no reason *MissionForce: CyberStorm* should remain without a community 
    [Archive.org](https://archive.org/details/missionforce-cyberstorm) hosts preserved `.iso` image of the game.  
    This versions also require manual intervention to install patches and configure compatibility on modern systems.
 
+
+# Preservation status
+To properly preserve the game and ensure compatibility with future devices and software, the assets contained within the game should be extracted or otherwise separated in a structured way. Ideally, this process should be reversible, allowing improved assets—such as higher-quality audio files—to be reinserted into the game later. There also appears to be overlap between multiple Dynamix projects, suggesting that there may be useful cross-project insights or shared preservation techniques applicable to games from that era.
+
+## Music
+Progress: 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50%
+
+Progress so far: Loose `.ogg` files.
+
+Next step: Extract the redbook audio direct from disk (Cannot be done from GOG version).
+
+## SFX
+Progress: 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10%
+
+Progress so far: The `.rbx` have been examined / dumped produceing a collection of `.wax` files. 
+
+Next step: The `.wax` files need slight tweaking to convert into modern `.wav` files. (There already is a [decoder](https://github.com/juanitogan/rbxit/blob/master/tools/wax2wav.py))
+
+## Graphics
+Progress: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
+
+Progress so far: The `.rbx` have been examined / dumped produceing a collection of files however no art files imediatly standout.
+
+Next step: Use Ghidra at the `.exe` to hint what file contains graphics then step the progress into a GDI display call.
+
+## Fonts
+Progress: 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10%
+
+Progress so far: Six files have been identified as likely canidates (FONTX.FNX)
+
+Next step: Shim / dll injection the GDI call [CreateFontA](https://learn.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-createfonta?utm_source=chatgpt.com) to see how it is being pulled in. 
+
+## Documents (Active Focus)
+Progress: 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% 
+
+Progress so far: v1.1 documents, scan from Prima gtrategy guide, InterAction issues, boxed game includes, relevant InterAction issues.
+
+Next step: The game relied on a digital manual to explain mechanics to users. The game calls `MVIEWER2.exe` then loads the english manual `METALSTO.MVB` however this application does not work on modern systems. `METALSTO.MVB` has been extracted into `.rtf` files along with the imbedded images. After the extraction the `.rtf` documents have been converted into modern `.html` files for viewing. Reconstructing the page linking is nearly complete.
+
+## 3D Assets
+Progress: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
+
+Progress so far: Unkown
+
+Next step: Marketing materials state that high-quality 3D models were used to create game assets, but it is unclear whether any of those models were actually included in the final game. The 3D models may have been used for elements such as targeting obscurion and the hercbay wireframe. However, it’s also possible the assets were rendered down into a sprite sheet, with no actual 3D models present in the finished product. Between the start menu animations, the 360 hercbay wireframes and just the vertix count of 1996 a reconstruction of 8 Unitech HERCS apears easy with the 8 cybrid HERCS trickier to reconstruct without the 360 hercbay wireframes. Assets such as the carrier, buildings, bioderm heads, and turrets are suspected to be 3D in source only.
+
+## Videos
+Progress: 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ ?%
+
+Progress so far: Three `.avi` documents have been preserved pulled directly from the loose game install files.
+
+Next step: Video files such as Bioderm deaths can easily be recorded however a better preservation would be to extract the bits from the `.rbx` files sources. Some videos are full screen such as the intro video and credits while others are imbedded into a larger composit such as Bioderm faces within the Medvat.
+
+## Debugger
+Cyberstorm pauses code execution while it doesn't have window focus complicateing the effectiveness of attaching x32dbg. If this pause mechanic can be disabled useing Ghidra then it would assist stepping through the code execution. Instruction stepping should pinpoint the RNG issue the game has when generateing new solar system missions. (It is expected that modern computers run too fast so each mission is generated useing the same seed ms causing the duplications)
+
 # Publications
 ## Prima Strategy Guide
 John Sauer wrote an [official strategy guide](./publications/Prima%20Strategy%20Guide.pdf) for MissionForce: CyberStorm under the Prima Publishing label. Produced with direct support from Dynamix, the guide provides extensive gameplay information, mechanics explanations, and strategic insight that were largely absent from the retail release.
