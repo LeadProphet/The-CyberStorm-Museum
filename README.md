@@ -55,7 +55,7 @@ Progress: 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10%
 
 Progress so far: Six files have been identified as likely canidates (FONTX.FNX)
 
-Next step: Shim / dll injection the GDI call [CreateFontA](https://learn.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-createfonta?utm_source=chatgpt.com) to see how it is being pulled in. 
+Next step: Shim / dll injection the GDI call [CreateFontA](https://learn.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-createfonta?utm_source=chatgpt.com) to see how it is being pulled in. The digital manual hints "Digital font outline data licensed from Weatherly Systems, Inc., © 1996".
 
 ## Documents (Active Focus)
 Progress: 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% 
