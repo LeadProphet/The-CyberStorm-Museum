@@ -57,12 +57,12 @@ Progress so far: Six files have been identified as likely canidates (FONTX.FNX)
 
 Next step: Shim / dll injection the GDI call [CreateFontA](https://learn.microsoft.com/en-us/windows/win32/api/wingdi/nf-wingdi-createfonta?utm_source=chatgpt.com) to see how it is being pulled in. The digital manual hints "Digital font outline data licensed from Weatherly Systems, Inc., © 1996".
 
-## Documents (Active Focus)
-Progress: 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% 
+## Paper & Digital Documents
+Progress: 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% 
 
-Progress so far: v1.1 documents, scan from Prima gtrategy guide, InterAction issues, boxed game includes, relevant InterAction issues.
+Manual, 
+[Installation Guide](./publications/Installation%20Guide.pdf), [Quick Reference Card](./publications/Quick%20Reference%20Card.pdf), [Prima Strategy Guide](./publications/Prima%20Strategy%20Guide.pdf), MVIEWER2.EXE & METALSTO.MVB replaced with [cs-help](https://github.com/TeamCorgo/CS-Help), [cs-help LIVE version](https://www.corgo.org/cs-help/), InterAction Magazine issues [27](./publications/InterAction%20Issue%2027%20(Summer%201996).pdf), [28](./publications/InterAction%20Issue%2028%20(Fall%201996).pdf), [29](./publications/InterAction%20Issue%2029%20(Holiday%201996).pdf), [30](./publications/InterAction%20Issue%2030%20(Spring%201997).pdf), Patch v1.1 documents (within ./raw game assets/docs).
 
-Next step: The game relied on a digital manual to explain mechanics to users. The game calls `MVIEWER2.exe` then loads the english manual `METALSTO.MVB` however this application does not work on modern systems. `METALSTO.MVB` has been extracted into `.rtf` files along with the imbedded images. After the extraction the `.rtf` documents have been converted into modern `.html` files for viewing. Reconstructing the page linking is nearly complete.
 
 ## 3D Assets
 Progress: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
@@ -135,15 +135,7 @@ My typical workflow is to spam `-[>` at the start of each battle, then ending ea
 - *CyberStorm* was absent from the Top 20 section on page 96.
 
 ## Installation Guide
-The [installation guide](./publications/Installation%20Guide.pdf) is nearly useless and represents the absolute bare minimum of acceptable documentation on how to install and troubleshoot. 
-
-Given the complexity of the game’s mechanics, the absence of a proper physical manual was a disappointment [voiced by players](https://groups.google.com/g/comp.sys.ibm.pc.games.strategic/c/KwuVW36djSw/m/vDhxq69hIDsJ). It is difficult to imagine that many users did not mistake the installation guide for the nonexistent game manual itself. 
-
-> "However, the choice to not have a paper  manual was not one that many were, shall we say, fond of." In addition to the lack of heft in the box, many missed explicitly detailed statistics for the weapons. Some wanted more things to be able to read off-line. Others had trouble printing sections of the manual on their printer."
->
-> — PATCH.TXT document (post install from v1.1)
-
-The situation was likely made worse by how comically thin the installation guide appeared. Although it does reference the in-game/on-disk manual, the mention is extremely easy to miss. It also briefly hints that some sounds were sourced from the "Sound Ideas® sound effects library."
+The [installation guide](./publications/Installation%20Guide.pdf) is nearly useless and represents the absolute bare minimum of acceptable documentation on how to install and troubleshoot. It also briefly hints that some sounds were sourced from the "Sound Ideas® sound effects library."
 
 # Downloads
 ## Madaxe's HercView 1.1
