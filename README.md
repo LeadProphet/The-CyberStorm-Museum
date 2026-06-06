@@ -61,7 +61,7 @@ Next step: Shim / dll injection the GDI call [CreateFontA](https://learn.microso
 Progress: 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% 
 
 Manual, 
-[Installation Guide](./publications/Installation%20Guide.pdf), [Quick Reference Card](./publications/Quick%20Reference%20Card.pdf), [Prima Strategy Guide](./publications/Prima%20Strategy%20Guide.pdf), MVIEWER2.EXE & METALSTO.MVB replaced with [cs-help](https://github.com/TeamCorgo/CS-Help), [cs-help LIVE version](https://www.corgo.org/cs-help/), InterAction Magazine issues [27](./publications/InterAction%20Issue%2027%20(Summer%201996).pdf), [28](./publications/InterAction%20Issue%2028%20(Fall%201996).pdf), [29](./publications/InterAction%20Issue%2029%20(Holiday%201996).pdf), [30](./publications/InterAction%20Issue%2030%20(Spring%201997).pdf), Patch v1.1 documents (within ./raw game assets/docs).
+[Installation Guide](./publications/Installation%20Guide.pdf), [Quick Reference Card](./publications/Quick%20Reference%20Card.pdf), [Prima Strategy Guide](./publications/Prima%20Strategy%20Guide.pdf), MVIEWER2.EXE & METALSTO.MVB replaced with [cs-help](https://github.com/TeamCorgo/CS-Help), [cs-help LIVE version](https://www.corgo.org/cs-help/), InterAction Magazine issues [27](./publications/InterAction%20Issue%2027%20(Summer%201996).pdf), [28](./publications/InterAction%20Issue%2028%20(Fall%201996).pdf), [29](./publications/InterAction%20Issue%2029%20(Holiday%201996).pdf), [30](./publications/InterAction%20Issue%2030%20(Spring%201997).pdf), Patch v1.1 [documents](./raw%20game%20assets/V1.1%20Patch%20Docs.zip).
 
 
 ## 3D Assets
