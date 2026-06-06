@@ -107,6 +107,12 @@ However, gameplay patterns show that players often neglect the Crouch and Jackup
 
 My typical workflow is to spam `-[>` at the start of each battle, then ending each turn with `K>` ending with `Ctrl + E`.
 
+A keyboard graphic was generated based on the information provided in the Quick Reference Card.
+<p align="center">
+  <img src="./images/hotkeys.png" alt="MissionForce: CyberStorm Keyboard Hotkeys">
+</p>
+
+
 ## InterAction Magazine
 *InterAction* was a dedicated promotional magazine published by Sierra On-Line starting in June 1991. Archival pages were sourced from [Retromags](https://www.retromags.com/files/category/206-interaction/).
 
