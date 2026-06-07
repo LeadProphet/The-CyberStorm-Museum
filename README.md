@@ -170,7 +170,7 @@ The fans `Crow!`, `Seraphim`, `borg_down`, `siopaomanX` on [The Junkyard forums]
 Special thanks for the dedication and expertise required to create such a patch. Rebalancing a complex strategy game at this level demands a deep understanding of its mechanics, enemy scaling, and overall campaign flow (Dynamix has 14 Quality Assurance Analysts listed in the credits). Truly legends!
 
 ## Windows Theme (Fan made)
-Hosted on the [Official CyberStorm Site](https://web.archive.org/web/19970321071832/http://www.techline.com/~outlaw/guns/cs/) created by `RAtt` and `Lemming` is a downloadable [MSPlus Windows theme](./downloads/windows%20theme.zip).
+Hosted on the [Official CyberStorm Site](https://web.archive.org/web/19970321071832/http://www.techline.com/~outlaw/guns/cs/) created by `RAtt` and `Lemming` is a downloadable [MSPlus Windows theme](./downloads/Windows%20Theme.zip).
 
 No credits are attributed, however the theme appears to be reasonably well developed, featuring images, cursors, and sound effects taken directly from the game. For 1996, it is quaint and genuinely charming to see a fan-made Windows theme produced for the game, reflecting the era when desktop customization packs were a popular part of PC gaming culture. Sadly, there is no surviving context explaining how the assets were extracted or who specifically authored the theme. However, the startup screen links directly to the official CyberStorm fan site, making `RAtt` or `Lemming` the most likely creators.
 
