@@ -29,24 +29,18 @@ There is no reason *MissionForce: CyberStorm* should remain without a community 
 # Preservation status
 To properly preserve the game and ensure compatibility with future devices and software, the assets contained within the game should be extracted or otherwise separated in a structured way. Ideally, this process should be reversible, allowing improved assets—such as higher-quality audio files—to be reinserted into the game later. There also appears to be overlap between multiple Dynamix projects, suggesting that there may be useful cross-project insights or shared preservation techniques applicable to games from that era.
 
-## Music
-Progress: 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50%
+## Audio
+Music Progress: 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50%
 
-Progress so far: Loose `.ogg` files.
+SFX Progress: 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10%
 
-Next step: Extract the redbook audio direct from disk (Cannot be done from GOG version).
+Progress is tracked within a [sub project](https://github.com/TeamCorgo/CS-Audio). Three music songs are preserved.
 
-## SFX
-Progress: 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10%
-
-Progress so far: The `.rbx` have been examined / dumped produceing a collection of `.wax` files. 
-
-Next step: The `.wax` files need slight tweaking to convert into modern `.wav` files. (There already is a [decoder](https://github.com/juanitogan/rbxit/blob/master/tools/wax2wav.py))
 
 ## Graphics
 Progress: 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20%
 
-Progress is tracked within a [sub project](https://github.com/TeamCorgo/CS_Graphics). Fonts and Cursors are preserved.
+Progress is tracked within a [sub project](https://github.com/TeamCorgo/CS-Graphics). Fonts and Cursors are preserved.
 
 ## Paper & Digital Documents
 Progress: 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% 
